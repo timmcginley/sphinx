@@ -14,8 +14,8 @@ import shutil
 # Copy notebooks
 # shutil.copytree('../../notebooks', 'notebooks', dirs_exist_ok=True)
 
-project = 'Course 41934'
-copyright = '2024, DTU'
+project = 'Course 41936'
+copyright = '2025, DTU'
 author = 'DTU Construct'
 
 # -- General configuration ---------------------------------------------------
@@ -51,7 +51,7 @@ myst_heading_anchors = 3
 
 # html_theme = 'alabaster'
 # html_theme = 'press'
-GITHUB_URL ="https://github.com/timmcginley/41934"
+GITHUB_URL ="https://github.com/timmcginley/41936"
 html_theme = 'sphinx_book_theme'
 html_theme_options = {
     "repository_url": GITHUB_URL,
