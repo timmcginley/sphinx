@@ -1,6 +1,7 @@
-:maxdepth: 2
+```:maxdepth: 2
 :hidden:
 :glob:
 Home <self>
 *
 */index
+```
